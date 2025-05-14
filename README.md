@@ -36,6 +36,9 @@ console.log(cekBatasNilai(0));  // Output: Nilai valid
 console.log(cekBatasNilai(100));  // Output: Nilai valid
 console.log(cekBatasNilai(-1));  // Output: Nilai tidak valid
 
+```
+
+---
 
 ### 2. **Comparison Testing**
 
