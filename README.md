@@ -1,6 +1,4 @@
-Here’s a **GitHub-ready Markdown** for **Black Box Testing**, but formatted in **Canvas-style** to better align with your request for a visually organized presentation:
 
-````markdown
 # Tugas Black Box Testing dengan JavaScript
 
 **Dosen Pengampu**  
@@ -17,12 +15,12 @@ Deni Suprihadi, S.T, M.Kom., MCE.
 - NIM: 20221310013
 
 ## Deskripsi  
-Tugas ini bertujuan untuk memahami dan mengimplementasikan pengujian **Black Box Testing** menggunakan JavaScript. **Black Box Testing** adalah metode pengujian perangkat lunak yang fokus pada pengujian fungsionalitas aplikasi tanpa melihat struktur internal atau kode sumber aplikasi.
+Tugas ini bertujuan untuk memahami dan mengimplementasikan pengujian Black Box Testing menggunakan JavaScript. Black Box Testing adalah metode pengujian perangkat lunak yang fokus pada pengujian fungsionalitas aplikasi tanpa melihat struktur internal atau kode sumber aplikasi.
 
----
+## Model Pengujian yang Digunakan
 
-### 1. **Boundary Value Analysis**
-**Boundary Value Analysis (BVA)** adalah teknik pengujian yang menguji nilai-nilai ekstrem dari input yang dapat diterima oleh aplikasi. Pengujian ini memastikan bahwa program dapat menangani batas nilai dengan benar.
+### 1. Boundary Value Analysis
+Boundary Value Analysis (BVA) adalah teknik pengujian yang menguji nilai-nilai ekstrem dari input yang dapat diterima oleh aplikasi. Pengujian ini memastikan bahwa program dapat menangani batas nilai dengan benar.
 
 #### Contoh Kode:
 ```javascript
@@ -37,9 +35,7 @@ function cekBatasNilai(angka) {
 console.log(cekBatasNilai(0));  // Output: Nilai valid
 console.log(cekBatasNilai(100));  // Output: Nilai valid
 console.log(cekBatasNilai(-1));  // Output: Nilai tidak valid
-````
 
----
 
 ### 2. **Comparison Testing**
 
