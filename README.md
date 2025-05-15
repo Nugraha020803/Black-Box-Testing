@@ -13,6 +13,12 @@ Deni Suprihadi, S.T, M.Kom., MCE.
 - NIM: 20221310064  
 - Denita Alhamdina Putri Arisandi  
 - NIM: 20221310013
+- Kelompok SQ
+- Sri purnama Royani putri
+- NIM: 20211310066
+- Melvin Chairul Azfa
+- NIM: 20211310019
+
 
 ## Deskripsi  
 Tugas ini bertujuan untuk memahami dan mengimplementasikan pengujian Black Box Testing menggunakan JavaScript. Black Box Testing adalah metode pengujian perangkat lunak yang fokus pada pengujian fungsionalitas aplikasi tanpa melihat struktur internal atau kode sumber aplikasi.
